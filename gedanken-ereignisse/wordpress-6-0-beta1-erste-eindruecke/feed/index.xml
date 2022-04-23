@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Kommentare zu: WordPress 6.0-beta1 &#8211; Erste Eindrücke	</title>
+	<atom:link href="/static/gedanken-ereignisse/wordpress-6-0-beta1-erste-eindruecke/feed/" rel="self" type="application/rss+xml" />
+	<link>/static/gedanken-ereignisse/wordpress-6-0-beta1-erste-eindruecke/</link>
+	<description>Geschichten über und Gedanken zu Wien, die Donaustadt, die Lobau und die Zeit in der wir leben</description>
+	<lastBuildDate>Sun, 17 Apr 2022 12:53:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0-beta1-53208</generator>
+</channel>
+</rss>

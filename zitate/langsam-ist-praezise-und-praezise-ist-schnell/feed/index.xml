@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Kommentare zu: Langsam ist präzise und präzise ist schnell	</title>
+	<atom:link href="/static/zitate/langsam-ist-praezise-und-praezise-ist-schnell/feed/" rel="self" type="application/rss+xml" />
+	<link>/static/zitate/langsam-ist-praezise-und-praezise-ist-schnell/</link>
+	<description>Geschichten über und Gedanken zu Wien, die Donaustadt, die Lobau und die Zeit in der wir leben</description>
+	<lastBuildDate>Wed, 20 Apr 2022 09:11:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0-beta1-53208</generator>
+</channel>
+</rss>
