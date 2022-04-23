@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Kommentare zu: Mein Avatar einst und jetzt	</title>
-	<atom:link href="/static/gedanken-ereignisse/mein-avatar-einst-und-jetzt/feed/" rel="self" type="application/rss+xml" />
-	<link>/static/gedanken-ereignisse/mein-avatar-einst-und-jetzt/</link>
+	<atom:link href="/gedanken-ereignisse/mein-avatar-einst-und-jetzt/feed/" rel="self" type="application/rss+xml" />
+	<link>/gedanken-ereignisse/mein-avatar-einst-und-jetzt/</link>
 	<description>Geschichten über und Gedanken zu Wien, die Donaustadt, die Lobau und die Zeit in der wir leben</description>
 	<lastBuildDate>Wed, 20 Apr 2022 08:30:50 +0000</lastBuildDate>
 	<sy:updatePeriod>

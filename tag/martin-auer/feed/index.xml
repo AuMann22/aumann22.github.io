@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Martin Auer Archive - Der Donaustädter</title>
-	<atom:link href="/static/tag/martin-auer/feed/" rel="self" type="application/rss+xml" />
-	<link>/static/</link>
+	<atom:link href="/tag/martin-auer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Geschichten über und Gedanken zu Wien, die Donaustadt, die Lobau und die Zeit in der wir leben</description>
 	<lastBuildDate>Wed, 20 Apr 2022 06:53:44 +0000</lastBuildDate>
 	<language>de-DE</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.0-beta1-53208</generator>
 
 <image>
-	<url>/static/wp-content/uploads/2022/04/Wien_Bezirk_Donaustadt_Wappen_icon_duba-blog.png</url>
+	<url>/wp-content/uploads/2022/04/Wien_Bezirk_Donaustadt_Wappen_icon_duba-blog.png</url>
 	<title>Martin Auer Archive - Der Donaustädter</title>
-	<link>/static/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Der Vorteil der Weißwurst</title>
-		<link>/static/zitate/der-vorteil-der-weisswurst/</link>
-					<comments>/static/zitate/der-vorteil-der-weisswurst/#respond</comments>
+		<link>/zitate/der-vorteil-der-weisswurst/</link>
+					<comments>/zitate/der-vorteil-der-weisswurst/#respond</comments>
 		
 		<dc:creator><![CDATA[Der Don]]></dc:creator>
 		<pubDate>Wed, 20 Apr 2022 06:51:38 +0000</pubDate>
 				<category><![CDATA[Zitate]]></category>
 		<category><![CDATA[Martin Auer]]></category>
-		<guid isPermaLink="false">/static/?p=395</guid>
+		<guid isPermaLink="false">/?p=395</guid>
 
 					<description><![CDATA[<p>… dass nichts den Geschmack des Senfs beeinträchtigt. Von Martin Auer</p>
-<p>Der Beitrag <a rel="nofollow" href="/static/zitate/der-vorteil-der-weisswurst/">Der Vorteil der Weißwurst</a> erschien zuerst auf <a rel="nofollow" href="/static/">Der Donaustädter</a>.</p>
+<p>Der Beitrag <a rel="nofollow" href="/zitate/der-vorteil-der-weisswurst/">Der Vorteil der Weißwurst</a> erschien zuerst auf <a rel="nofollow" href="/">Der Donaustädter</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>/static/zitate/der-vorteil-der-weisswurst/feed/</wfw:commentRss>
+					<wfw:commentRss>/zitate/der-vorteil-der-weisswurst/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

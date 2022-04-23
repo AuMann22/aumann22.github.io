@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Kommentare zu: Hallo Dolly, Servus Welt!	</title>
-	<atom:link href="/static/gedanken-ereignisse/hallo-dolly/feed/" rel="self" type="application/rss+xml" />
-	<link>/static/gedanken-ereignisse/hallo-dolly/</link>
+	<atom:link href="/gedanken-ereignisse/hallo-dolly/feed/" rel="self" type="application/rss+xml" />
+	<link>/gedanken-ereignisse/hallo-dolly/</link>
 	<description>Geschichten über und Gedanken zu Wien, die Donaustadt, die Lobau und die Zeit in der wir leben</description>
 	<lastBuildDate>Tue, 19 Apr 2022 19:44:07 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Kommentare für Der Donaustädter	</title>
-	<atom:link href="/static/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/static/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Geschichten über und Gedanken zu Wien, die Donaustadt, die Lobau und die Zeit in der wir leben</description>
-	<lastBuildDate>Fri, 22 Apr 2022 19:28:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 23 Apr 2022 10:45:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

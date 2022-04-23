@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Kommentare zu: Datenschutzerklärung	</title>
-	<atom:link href="/static/datenschutzerklaerung/feed/" rel="self" type="application/rss+xml" />
-	<link>/static/</link>
+	<atom:link href="/datenschutzerklaerung/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Geschichten über und Gedanken zu Wien, die Donaustadt, die Lobau und die Zeit in der wir leben</description>
 	<lastBuildDate>Thu, 21 Apr 2022 09:27:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
